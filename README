@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1804
+
+This is based on "brief.vim" authored by Yegappan Lakshmanan.
+It has some minor improvements, but I hope to add more to make the emulation as complete as possible.  I started using this under Vim 6.3, and have tried it on 7.0 with good success.
+
+
